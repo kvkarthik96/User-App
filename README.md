@@ -70,7 +70,3 @@ This app uses the following Flutter packages:
 If you have any questions or need further assistance, please feel free to contact below:
 
 - Mail id: kvkarthik96@gmail.com
-
-
-
-
