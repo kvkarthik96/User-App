@@ -1,4 +1,4 @@
-# user_app
+# User app
 
 A new Flutter project.
 
