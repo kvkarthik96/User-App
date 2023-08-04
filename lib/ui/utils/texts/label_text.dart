@@ -28,7 +28,7 @@ class LabelText extends StatelessWidget {
       text,
       style: TextStyle(
           color: color ?? Colors.black,
-          fontFamily: "Roboto",
+          fontFamily: "SF-Pro-Display",
           fontSize: size.sp,
           fontStyle: fontStyle ?? FontStyle.normal,
           fontWeight: fontWeight ?? FontWeight.normal,
